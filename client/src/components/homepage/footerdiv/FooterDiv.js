@@ -22,13 +22,11 @@ const FooterDiv = () => (
 
   <div className="sectionDiv">
     <div className="container-fluid">
-    	<img src="./images/vodsym1.png" alt="logoImage" />
-    	<img className="size4" src="./images/vodsocial.jpg" alt="socialImage" />
     	<p className="text-center">Contact | About</p>
     </div>
 
 	      <div id="homeCopyright">
-			    <p>© 2017 vodLEGENDS</p>
+			    <p>© 2017 Calabrese</p>
 	      </div>
 
 	    </div>

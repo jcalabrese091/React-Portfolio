@@ -1,0 +1,33 @@
+.triImage{
+	margin-top: 20px;
+	border: solid 1px lightgrey;
+}
+
+.sectionDiv{
+
+	border-top: solid 1px lightgrey;
+}
+
+
+#vodlegendsDiv h3{
+	border: solid 1px black;
+	width: 80%;
+	margin-left: 10%;
+	color: orange;
+	background-color: rgb(33,34,33);
+}
+
+#vodlegendsDiv{
+	padding-bottom: 30px;
+	background-image: url("./jumbo.jpg");
+	border-bottom: solid 1px black;
+}
+
+.hundred{
+	margin-top: 35px;
+	width: 85%;
+	height: 85%;
+	border: solid 3px black;
+}
+
+

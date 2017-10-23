@@ -4,19 +4,25 @@ import "./Jumbotron.css";
 
 const Jumbotron = () => (
   <div className="jumbotron">
-    <Navbar/><br/><br/><br/><br/>
+  <div className="row">
+      <br></br><br></br>
+    </div>
 
-    <Navbar />
+    <div className="row">
+      <div className="col-sm-6 col-md-6 col-lg-6">        
+      </div>
 
-    <img className="center-block" src="./images/vodlg.png" alt="vodlg" />
-    
-    <h1 className="text-center textyellow textborder"> Improve Your Skills! </h1>
-	<p className="text-center textyellow textborder">
-      Submit your VOD today <br/>
-      and receive Diamond level review and analysis.
-    </p>
-    {/*<img alt="featureImage" className="triImage2 center-block" src="./images/challenger.png" />*/}
-    <img alt="getstartednow" className="getstarted center-block" src="./images/started.png" onClick={this.signupClick} />
+      <div className="col-sm-6 col-md-6 col-lg-6">
+            <h1 className="text-center Name"> Joseph Calabrese </h1>
+              <h2 className="text-center Job">Full Stack Web Developer</h2>
+                <p className="text-center Description textborder">
+                  Passionate Developer and recent graduate of University California Irvine cont ed. Full Stack Web Developer program that focused on a variety of languages with emphasis in ES5 and ES6 syntax JavaScript. Multiple years of management experience that can be applied to any field with aspirations to become a Project Manager. Highly motivated goal oriented professional; a decision-maker skilled in implementing new ideas. 
+                </p>
+                  <img alt="getstartednow" className="getstarted center-block" src="./images/started.png" onClick={this.signupClick} />
+      </div>
+
+    </div>    
+
 
   </div>
 );
