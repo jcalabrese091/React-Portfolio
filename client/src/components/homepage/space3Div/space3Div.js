@@ -20,22 +20,8 @@ const space3Div = () => (
       <div className="col-sm-6 col-md-6 col-lg-6">
             <img className="about" src="./images/school.png" alt="About Me" />
              <p className="text-center space1description textborder">
-                Passionate Developer and recent graduate of University California Irvine cont ed. Full Stack Web Developer program that focused on a variety of languages with emphasis in ES5 and ES6 syntax JavaScript.
-              </p>
-          <div className="row">
-              <div className="col-sm-6 col-md-6 col-lg-6">        
-              <ol>
-                <li></li>
-              </ol>
-        </div>
-        <div className="row">
-              <div className="col-sm-6 col-md-6 col-lg-6">        
-              <ol>
-                <li></li>
-              </ol>
-            </div>
-        </div>
-      </div>    
+                Knowledge is everything. I spend most of my time learning new tools, technologies, and frameworks to better futher my career goals in the tech industry
+              </p>  
       </div>
 
     </div>    
