@@ -1,6 +1,5 @@
 import React from "react";
 import Jumbotron from "./jumbotron/Jumbotron";
-import FeaturesDiv from "./featuresdiv/FeaturesDiv";
 import VodlegendsDiv from "./vodlegendsDiv/vodlegendsDiv";
 import GymtagDiv from "./gymtagDiv/gymtagDiv";
 import BrewfinderDiv from "./brewfinderDiv/brewfinderDiv";
