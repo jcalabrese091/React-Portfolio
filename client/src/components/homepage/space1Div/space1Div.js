@@ -13,7 +13,7 @@ const space1Div = () => (
 
     <div className="row">
       <div className="col-sm-6 col-md-6 col-lg-6">        
-       <img className="vodlegends" src="./images/vodLegends.png" alt="priceImage" />
+       <img className="vodlegends" src="./images/joe2.jpg" alt="priceImage" />
       </div>
 
       <div className="col-sm-6 col-md-6 col-lg-6">
