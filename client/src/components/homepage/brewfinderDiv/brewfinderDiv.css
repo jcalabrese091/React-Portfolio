@@ -13,13 +13,13 @@
 	border: solid 1px black;
 	width: 80%;
 	margin-left: 10%;
-	color: orange;
+	color: white;
 	background-color: rgb(33,34,33);
 }
 
 #brewfinderDiv{
 	padding-bottom: 30px;
-	background-color: grey;
+	background-image: url("background.png");
 	border-bottom: solid 1px black;
 }
 
@@ -29,17 +29,20 @@
 	height: 85%;
 	border: solid 3px black;
 }
-.size5{
-	background-image: url("lolbg.jpg");
-	background-position: 0% 25%;
-    background-size: cover;
-    background-repeat: no-repeat;
-	width: 100%;
-	height: 100%;
-	padding-top: 16px;
-	margin-bottom: 0px;
+.brew{
+	width: 300px;
 }
-.ten{
-	border: solid 3px black;
+.brew_description{
+	font-weight: bold;
+	border-color: black;
+    border-style: double;
+    background: honeydew;
 }
-
+.black {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+.paragraph{
+	margin-left: 20px;
+}

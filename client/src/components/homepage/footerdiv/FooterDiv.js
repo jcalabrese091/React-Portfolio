@@ -4,33 +4,11 @@ import "./FooterDiv.css";
 const FooterDiv = () => (
   <div id="homeFooter" className="sectionDiv text-center">
     <div className="container-fluid">
-    	
-    	<div className="container-fluid">
-  
-	      <div id="homeFooterLeft">
-	        <img src="./images/vl.png" alt="logoImage" />
-	      </div>
-
-	      <div id="homeFooterLinks">
-	        <ul>
-	          <li><a href="">About</a></li>
-	          <li><a href="">Contact</a></li>
-	          <li><a href="">Terms of Use</a></li>
-	          <li><a href="">Create a Student Account</a></li>
-	        </ul>  
-	      </div>
-
-  <div className="sectionDiv">
-    <div className="container-fluid">
-    	<p className="text-center">Contact | About</p>
-    </div>
-
+    	<div className="sectionDiv">
 	      <div id="homeCopyright">
-			    <p>© 2017 Calabrese</p>
+			    <p>© 2017 Joseph Calabrese</p>
 	      </div>
-
-	    </div>
-    </div>
+    	</div>
     </div>
   </div>
 );

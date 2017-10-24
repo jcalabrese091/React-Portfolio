@@ -1,7 +1,6 @@
 /* JUMBOTRON & HEADER SECTION */
 .jumbotron{
 	margin-bottom: 0px;
-    background-image: url(jumbo.jpg);
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -10,7 +9,7 @@
 	margin-bottom: 0px;
 	background-image: url("./jumbo.jpg");
 	min-height: 600px;
-	color: #ffcf00;
+	color: aliceblue;
 	text-shadow:2px 2px 0 black;
 }
 
@@ -33,4 +32,8 @@
 	color: #ffcf00;
 	font-family: bold;
 	text-shadow: none;
+}
+.mainphoto{
+	width: 300px;
+	margin-left: 100px;
 }

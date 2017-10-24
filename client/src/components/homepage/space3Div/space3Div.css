@@ -9,20 +9,18 @@
 }
 
 
-#gymtagDiv h3{
+#space3 h3{
 	border: solid 1px black;
 	width: 80%;
 	margin-left: 10%;
-	color: white;
+	color: orange;
 	background-color: rgb(33,34,33);
 }
 
-#gymtagDiv{
+#space3Div{
 	padding-bottom: 30px;
-	background-image: url("gymbuddy2.jpg");
-	background-size: 100%;
-	opacity: .9;
 	border-bottom: solid 1px black;
+	background: aliceblue;
 }
 
 .hundred{
@@ -31,17 +29,7 @@
 	height: 85%;
 	border: solid 3px black;
 }
-.gym{
-	width: 300px;
+.education{
+	width: 400px;
+	margin-top: 55px;
 }
-.gym_description{
-	color: black;
-    background: gainsboro;
-    border-style: double;
-	font-weight: bold;
-}
-.paragraph{
-	margin-right: 20px;
-}
-
-

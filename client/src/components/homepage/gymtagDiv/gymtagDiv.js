@@ -5,7 +5,7 @@ const gymtagDiv = () => (
 
   <div id="gymtagDiv" className="sectionDiv text-center">
 
-  <div className="sectionDiv text-center size5">
+  <div className="sectionDiv text-center">
 
     <div className="row">
       <br></br><br></br>
@@ -13,15 +13,19 @@ const gymtagDiv = () => (
 
     <div className="row">
       <div className="col-sm-6 col-md-6 col-lg-6">        
-        <img src="./images/five.png" alt="priceImage" />
+        <img className="gym" src="./images/GymBuddy.png" alt="GymBuddy" />
       </div>
 
       <div className="col-sm-6 col-md-6 col-lg-6">
-        <h3>Gym-Tag</h3>
+      <div className="paragraph">
+        <h3>Gym-Buddy</h3>
             <h4></h4>
-              <p>A connection website that brings together gym members who are looking for a workout partner that has some degree of knowledge of proper lifting techniques, but are not considered a trainer. This was achieved through the use of MySQL to link together tables of data to provide coach, student, and scheduling tables. The design aspect utilized Bootstrap to provide the ascetics and node.js to build the server and corresponding routes.</p>
+              <p className="gym_description">A website that connects gym members who are looking for a workout partner that has some knowledge of proper lifting techniques, but are not considered a certified trainer. This was achieved through the use of MySQL to link together tables of data to provide scheduling and account signup. The design aspect utilized Bootstrap to provide the ascetics and node.js to build the server and corresponding routes.</p>
+              <a href="https://gympursuit.herokuapp.com/">
+                <button className="btn btn-primary">Home Page</button>
+              </a>
       </div>
-
+      </div>
     </div>    
   </div>
   </div>

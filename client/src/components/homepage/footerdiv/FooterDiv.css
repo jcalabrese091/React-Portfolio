@@ -1,16 +1,6 @@
 .sectionDiv{
-
+	width: 100%;
 	border-top: solid 1px lightgrey;
-}
-
-#homeFooterLeft img{
-	height: 50px;
-	width: 50px;
-}
-
-#homeFooterLeft{
-	width: 25%;
-	display: inline-block;
 }
 
 #homeFooter{
@@ -19,27 +9,7 @@
 	padding-bottom: 5px;
 	background-color: rgb(33, 34, 33);
 	padding-right: 5%;
-}
-
-#homeFooterLinks{
-	width: 50%;
-	display: inline-block;
-	text-align: center;
-}
-
-#homeFooterLinks li{
-	display: inline-block;
-	border-left: solid 1px white;
-	padding-left: 5px; 
-	padding-right: 5px; 
-}
-
-#homeFooterLinks li:first-child{
-	border-left: none;
-}
-
-#homeFooterLinks li a{
-	color: white;
+	background-image: url("background.png");
 }
 
 #homeCopyright{
@@ -56,4 +26,7 @@
 .size4 {
 	align-content: right;
 
+}
+.connect{
+	padding-left: 80px;
 }

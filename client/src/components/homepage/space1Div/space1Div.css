@@ -1,0 +1,40 @@
+.triImage{
+	margin-top: 20px;
+	border: solid 1px lightgrey;
+}
+
+.sectionDiv{
+
+	border-top: solid 1px lightgrey;
+}
+#space1Div{
+	padding-bottom: 30px;
+	border-bottom: solid 1px black;
+	background: aliceblue;
+}
+
+.hundred{
+	margin-top: 35px;
+	width: 85%;
+	height: 85%;
+	border: solid 3px black;
+}
+.vodlegends{
+	width: 300px;
+}
+.space1description{
+	color: black;
+	font-family: bold;
+	text-shadow: none;
+	margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 200;
+}
+p {
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: 200;
+}
+.about{
+	width: 100px;
+}

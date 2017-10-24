@@ -19,7 +19,7 @@
 
 #vodlegendsDiv{
 	padding-bottom: 30px;
-	background-image: url("./jumbo.jpg");
+	background-image: url("./lolbg.jpg");
 	border-bottom: solid 1px black;
 }
 
@@ -29,5 +29,19 @@
 	height: 85%;
 	border: solid 3px black;
 }
-
-
+.vodlegends{
+	width: 300px;
+}
+.description{
+	color: orange;
+	background: darkslategrey;
+    border-style: double;
+    border-color: black;
+    font-weight: bold;
+}
+.btn-warning{
+	color: black;
+}
+.paragraph{
+	padding-left: 30px;
+}
