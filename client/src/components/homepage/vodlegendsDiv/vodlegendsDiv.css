@@ -21,6 +21,8 @@
 	padding-bottom: 30px;
 	background-image: url("./lolbg.jpg");
 	border-bottom: solid 1px black;
+	opacity: .95;
+	background-position: stretch;
 }
 
 .hundred{
@@ -33,10 +35,8 @@
 	width: 300px;
 }
 .description{
-	color: orange;
-	background: darkslategrey;
-    border-style: double;
-    border-color: black;
+	color: gold;
+	font-size: 20px;
     font-weight: bold;
 }
 .btn-warning{
@@ -44,4 +44,7 @@
 }
 .paragraph{
 	padding-left: 30px;
+}
+.vodlegendstitle{
+	width: 500px;
 }
