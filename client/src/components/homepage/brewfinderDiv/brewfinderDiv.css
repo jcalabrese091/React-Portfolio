@@ -21,6 +21,9 @@
 	padding-bottom: 30px;
 	background-image: url("background.png");
 	border-bottom: solid 1px black;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .hundred{
@@ -30,7 +33,7 @@
 	border: solid 3px black;
 }
 .brew{
-	width: 300px;
+	width: 400px;
 }
 .brew_description{
 	font-weight: bold;

@@ -22,7 +22,9 @@
 	background-image: url("./lolbg.jpg");
 	border-bottom: solid 1px black;
 	opacity: .95;
-	background-position: stretch;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .hundred{
@@ -32,7 +34,7 @@
 	border: solid 3px black;
 }
 .vodlegends{
-	width: 300px;
+	width: 400px;
 }
 .description{
 	color: gold;
