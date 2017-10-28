@@ -2,8 +2,9 @@
 .jumbotron{
 	margin-bottom: 0px;
     background-position: 0% 25%;
+	background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
 	width: 100%;
 	padding-top: 16px;
 	margin-bottom: 0px;

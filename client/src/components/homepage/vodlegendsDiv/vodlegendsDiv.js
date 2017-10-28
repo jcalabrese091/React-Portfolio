@@ -22,7 +22,7 @@ const vodlegendsDiv = () => (
       </div>
       <div className="col-sm-6 col-md-6 col-lg-6">
         <a href="https://vod-legends.herokuapp.com/">
-          <img className="vodlegends" src="./images/vodLegends.png" alt="priceImage" />
+          <img className="vodlegendspic" src="./images/vodLegends.png" alt="priceImage" />
         </a>      
       </div>
 
