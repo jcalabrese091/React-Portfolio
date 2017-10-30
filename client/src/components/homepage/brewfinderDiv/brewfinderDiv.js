@@ -19,11 +19,13 @@ const brewfinderDiv = () => (
         </p>     
           <a href="https://protected-basin-19070.herokuapp.com/">
                 <button className="btn btn-primary black">Home Page</button>
-              </a>   
+          </a>   
       </div>
       </div>
       <div className="col-sm-6 col-md-6 col-lg-6">
-        <img className="brew" src="./images/BrewFinder.png" alt="priceImage" />
+        <a href="https://protected-basin-19070.herokuapp.com/">
+          <img className="brew" src="./images/BrewFinder.png" alt="priceImage" />
+        </a>
       </div>
 
     </div>    
