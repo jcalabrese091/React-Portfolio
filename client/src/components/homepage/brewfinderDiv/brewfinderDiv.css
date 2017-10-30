@@ -37,7 +37,8 @@
 }
 .brew_description{
 	font-weight: bold;
-    background: honeydew;
+    color: aliceblue;
+    font-size: 20px;
 }
 .black {
     color: #fff;
