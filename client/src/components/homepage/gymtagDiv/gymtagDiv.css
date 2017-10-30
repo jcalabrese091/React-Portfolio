@@ -37,12 +37,15 @@
 }
 .gym_description{
 	color: black;
-    background: gainsboro;
-    border-style: double;
-	font-weight: bold;
+    background: whitesmoke;
+    font-weight: bold;
+    font-size: 20px;
 }
 .paragraph{
 	margin-right: 20px;
+}
+.gymtitle{
+	width: 300px;
 }
 
 
