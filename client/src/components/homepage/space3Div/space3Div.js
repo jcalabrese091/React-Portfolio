@@ -18,9 +18,10 @@ const space3Div = () => (
       </div>
 
       <div className="col-sm-6 col-md-6 col-lg-6">
+            <h1>Skills</h1>
             <img className="about" src="./images/school.png" alt="About Me" />
              <p className="text-center space1description textborder">
-                Knowledge is everything. I spend most of my time learning new tools, technologies, and frameworks to better futher my career goals in the tech industry
+                Node.js, Express, JavaScript, jQuery, React.js, React Native, GIT, Github, MongoDB, Mongoose, MySQL, SQL, HTML, CSS, Bootstrap, Media Queries, APIs, JSON, REST, AJAX, command line
               </p>  
       </div>
 
