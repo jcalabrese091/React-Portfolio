@@ -18,7 +18,7 @@ const brewfinderDiv = () => (
           <img className="brewtitle" src="./images/brewtitle.png" />
         </a>
         <br></br><br></br>
-        <p className="brew_description">A website that provides users with information about local breweries. Once a brewery was selected on the map (imported from the Google Maps API), an Uber service was provided for safe transportation of the user from their location. This was achieved obtaining an Uber button from the Uber API to provide up to date ETA for the user and direct routing to payment services.  Server was built through use of node.js.
+        <p className="brew_description">Provides users with information about local breweries. Once a brewery was selected on the map (imported from the Google Maps API), an Uber service is offered for safe transportation of the user from their current location. This was achieved obtaining an Uber button from the Uber API to provide up to date ETA for the user and direct routing to payment services.  Server was built through use of node.js.
         </p>       
       </div>
       </div>

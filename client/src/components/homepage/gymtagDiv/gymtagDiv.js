@@ -24,7 +24,7 @@ const gymtagDiv = () => (
           <img className="gymtitle" src="./images/gym.png" alt="GymBuddy" />
         </a>
             <br></br><br></br>
-              <p className="gym_description">Connects gym members who are looking for a workout partner that has some knowledge of proper lifting techniques, but are not considered a certified trainer. This was achieved through the use of MySQL to link together tables of data to provide scheduling and account signup. The design aspect utilized Bootstrap to provide the ascetics and node.js to build the server and corresponding routes.</p>  
+              <p className="gym_description">Connects gym members who are looking for a workout partner. This "coach" has some knowledge of proper lifting techniques, but are not considered a certified trainer. MySQL was used to link together tables of data to provide scheduling and account signup. The design aspect utilized Bootstrap to provide the ascetics and node.js to build the server and corresponding routes.</p>  
       </div>
       </div>
     </div>    
